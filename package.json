@@ -1,0 +1,21 @@
+{
+  "name": "nameTheLyrics",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://www.musicormisery.net/name-the-lyrics",
+  "devDependencies": {
+    "babel-loader": "^6.2.10",
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "axios": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
